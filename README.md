@@ -11,4 +11,4 @@ Project is created with:
 * Matplotlib
 * BeautifulSoup4
 
-<img src="FinanceApp/App/screenshots/Screenshot1.PNG" width="48">
+<img src="FinanceApp/App/screenshots/Screenshot1.PNG" width="200">

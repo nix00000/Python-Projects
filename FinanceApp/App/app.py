@@ -9,7 +9,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 from matplotlib.figure import Figure
 
 LARGE_FONT = ("Verdana", 14)
-
+print("testing")
 
 class Business(tk.Tk):
     def __init__(self,*args,**kwargs):
